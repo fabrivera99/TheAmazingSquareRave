@@ -9,7 +9,7 @@ Bueno, aqui esta el repositiorio del proyecto como yo prometi. Si alguien tiene 
 
 
 # Estetica del juego
-Debido a recientes snaps que he visto he decidio crear aqui unas pequeñas reglas de diseño.
+He visto he decidio crear aqui unas pequeñas reglas de diseño, para evitar disgusto y/o correciones
 
 <ul>
   <li>
