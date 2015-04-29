@@ -30,7 +30,7 @@ Debido a recientes snaps que he visto he decidio crear aqui unas pequeñas regla
   
   <li>
     <b>Elementos simples:</b><br>
-    Figuaras geometricas basicas, triangulos, elipses y rectangulos.
+    Figuras geometricas basicas, triangulos, elipses y rectangulos.
     La menor cantidad de imagenes posibles.
     Botones sin bordes.
   </li>
