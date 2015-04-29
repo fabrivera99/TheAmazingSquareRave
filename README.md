@@ -50,3 +50,26 @@ Debido a recientes snaps que he visto he decidio crear aqui unas pequeñas regla
     </ul>
   </li>
 </ul>
+
+# Estetica del codigo
+Para evitar futuras correcions y/o confusiones aqui les dejo unas pocas reglas para codificar. <br>
+
+<ul>
+  <li>
+    <b>Comentarios antes de cosa a comenar:</b> <br>
+    Si se desea comentar algo, hacer aclaraciones o explicar algo hacerlo una linea antes de declararlo.
+  </li>
+  <li>
+    <b>No utilizar grocerias: </b> <br>
+    No comentar grocerias o vulgaridades. Si probande escribe algo como "Pussy Slayer", "Nenas" o "Pitos" quitenlo antes de
+    subirlo a GitHub.
+  </li>
+  
+  <li>
+    <b>Comentarios en Español, entendible:</b>
+    No es necesario Español formal, pero intentar que lo que escriban pueda ser entendido por otro humano que habla Español
+    apare de ustedes. Utilizar comas. Utilizar doble comilla para nombres propios y/o variables en los comentarios. Evitar cosas como " 'Aqui l3s d3j0 mi z0rs" u oraciones muy largas en una misma linea.
+  </li>
+</ul>
+
+## "Me tome la libertad de hacer reglas" - <b><i>Fabrizzio</i></b>
