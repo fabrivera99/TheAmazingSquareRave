@@ -23,9 +23,9 @@ Debido a recientes snaps que he visto he decidio crear aqui unas pequeñas regla
     <br>
     Colores encendidos o pastel.
     
-    ejemplos: http://material-design.storage.googleapis.com/publish/material_v_3/material_ext_publish/0Bx4BSt6jniD7eDg3bGdRcy12Mm8/style_color_uiapplication_palette1.png
-    
-    http://material-design.storage.googleapis.com/publish/material_v_3/material_ext_publish/0Bx4BSt6jniD7NUJzYWNoVGp2SGc/style_color_uiapplication_palette2.png
+    ejemplos:<br>
+    ![alt tag](http://material-design.storage.googleapis.com/publish/material_v_3/material_ext_publish/0Bx4BSt6jniD7eDg3bGdRcy12Mm8/style_color_uiapplication_palette1.png)
+    ![alt tag](http://material-design.storage.googleapis.com/publish/material_v_3/material_ext_publish/0Bx4BSt6jniD7NUJzYWNoVGp2SGc/style_color_uiapplication_palette2.png)
   </li>
   
   <li>
