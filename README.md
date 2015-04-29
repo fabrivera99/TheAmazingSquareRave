@@ -23,7 +23,7 @@ Debido a recientes snaps que he visto he decidio crear aqui unas pequeñas regla
     <br>
     Colores encendidos o pastel.
     
-    ejemplos:<br>
+    <i>ejemplos:</i><br>
     <img width="45%" src="http://material-design.storage.googleapis.com/publish/material_v_3/material_ext_publish/0Bx4BSt6jniD7eDg3bGdRcy12Mm8/style_color_uiapplication_palette1.png" alt="blue">
     <img width="45%" src="http://material-design.storage.googleapis.com/publish/material_v_3/material_ext_publish/0Bx4BSt6jniD7NUJzYWNoVGp2SGc/style_color_uiapplication_palette2.png">
   </li>
@@ -33,5 +33,20 @@ Debido a recientes snaps que he visto he decidio crear aqui unas pequeñas regla
     Figuaras geometricas basicas, triangulos, elipses y rectangulos.
     La menor cantidad de imagenes posibles.
     Botones sin bordes.
+  </li>
+  
+  <li>
+    <b>Juegos con esteticas similares:</b><br>
+    <ul>
+      <li>
+        <i>Mini Metro</i><br>
+        <img width="100%" src="http://images.akamai.steamusercontent.com/ugc/714161423404165478/15CCFA323C2AFCD655DB2B3034B81F469E46B294/" alt="MiniMetro">
+      </li>
+      
+      <li>
+        <i>140</i><br>
+        <img width="100%" src="http://images.akamai.steamusercontent.com/ugc/45376878760904223/38247402AC89D0F57AF117AE1DA5439231A451D0/" alt="140">
+      </li>
+    </ul>
   </li>
 </ul>
