@@ -1,0 +1,13 @@
+c:\users\fabrizzio\documents\visual studio 2013\Projects\TheAmazingSquareRave\TheAmazingSquareRave\bin\Debug\TheAmazingSquareRave.exe.config
+c:\users\fabrizzio\documents\visual studio 2013\Projects\TheAmazingSquareRave\TheAmazingSquareRave\bin\Debug\TheAmazingSquareRave.exe
+c:\users\fabrizzio\documents\visual studio 2013\Projects\TheAmazingSquareRave\TheAmazingSquareRave\bin\Debug\TheAmazingSquareRave.pdb
+c:\users\fabrizzio\documents\visual studio 2013\Projects\TheAmazingSquareRave\TheAmazingSquareRave\bin\Debug\TheAmazingSquareRave.xml
+c:\users\fabrizzio\documents\visual studio 2013\Projects\TheAmazingSquareRave\TheAmazingSquareRave\obj\Debug\TheAmazingSquareRave.Form1.resources
+c:\users\fabrizzio\documents\visual studio 2013\Projects\TheAmazingSquareRave\TheAmazingSquareRave\obj\Debug\TheAmazingSquareRave.Resources.resources
+c:\users\fabrizzio\documents\visual studio 2013\Projects\TheAmazingSquareRave\TheAmazingSquareRave\obj\Debug\TheAmazingSquareRave.vbproj.GenerateResource.Cache
+c:\users\fabrizzio\documents\visual studio 2013\Projects\TheAmazingSquareRave\TheAmazingSquareRave\obj\Debug\TheAmazingSquareRave.exe
+c:\users\fabrizzio\documents\visual studio 2013\Projects\TheAmazingSquareRave\TheAmazingSquareRave\obj\Debug\TheAmazingSquareRave.xml
+c:\users\fabrizzio\documents\visual studio 2013\Projects\TheAmazingSquareRave\TheAmazingSquareRave\obj\Debug\TheAmazingSquareRave.pdb
+C:\Users\Fabrizzio\Documents\Visual Studio 2013\Projects\TheAmazingSquareRave\TheAmazingSquareRave\obj\Debug\TheAmazingSquareRave.titlescreen.resources
+C:\Users\Fabrizzio\Documents\Visual Studio 2013\Projects\TheAmazingSquareRave\TheAmazingSquareRave\obj\Debug\TheAmazingSquareRave.dificultades.resources
+C:\Users\Fabrizzio\documents\visual studio 2013\Projects\TheAmazingSquareRave\TheAmazingSquareRave\obj\Debug\TheAmazingSquareRave.tutorial.resources
